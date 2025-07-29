@@ -31,7 +31,7 @@ All rights to original Flappy Bird assets belong to their respective owners. Thi
 
 ## 🛠️ Tech Stack
 
-- Unity 2D (2022+)
+- Unity 2D (Unity 6000+)
 - C#
 - RigidBody2D Physics
 - Unity UI System
