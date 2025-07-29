@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a68746a34df032f459ecee15f08035e2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Scripts/Input/BirdInput.cs
+  wrapperClassName: BirdInput
+  wrapperCodeNamespace: 
